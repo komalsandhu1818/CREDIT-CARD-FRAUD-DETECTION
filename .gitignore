@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+fraud_alerts.log
+*.egg-info/
+.DS_Store
